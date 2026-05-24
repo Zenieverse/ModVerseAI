@@ -1,0 +1,6 @@
+{
+  "name": "ModVerse AI",
+  "description": "The AI Operating System for Reddit Communities, featuring an AI Moderation Copilot, smart queues, raid detection, reputation metrics, automated summaries, and policy building built for Reddit Devvit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

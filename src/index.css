@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  
+  --color-elegant-bg: #030303;
+  --color-elegant-panel: #0B0B0C;
+  --color-elegant-card: #1A1A1B;
+  --color-elegant-border: #343536;
+  --color-elegant-muted: #818384;
+  --color-elegant-text: #D7DADC;
+  --color-elegant-orange: #FF4500;
+  --color-elegant-deeporange: #D93A00;
+  --color-elegant-highlight: #7156FF;
+  --color-elegant-amber: #FFD635;
+  --color-elegant-green: #00FF94;
+  --color-elegant-blue: #0079D3;
+}
