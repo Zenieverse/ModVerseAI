@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/950c7926-5a82-462b-bb8b-72b69a027024
 
+or https://modverse-ai-764082783379.us-west1.run.app
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
